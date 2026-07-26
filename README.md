@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/hart98k/DSA/tree/master/0076-minimum-window-substring) |
+| [0344-reverse-string](https://github.com/hart98k/DSA/tree/master/0344-reverse-string) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/hart98k/DSA/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 ## Counting
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/hart98k/DSA/tree/master/0509-fibonacci-number) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/hart98k/DSA/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
