@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hart98k/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/hart98k/DSA/tree/master/0509-fibonacci-number) |
 | [1248-count-number-of-nice-subarrays](https://github.com/hart98k/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/hart98k/DSA/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0050-powx-n](https://github.com/hart98k/DSA/tree/master/0050-powx-n) |
 | [0509-fibonacci-number](https://github.com/hart98k/DSA/tree/master/0509-fibonacci-number) |
 ## Memoization
 |  |
