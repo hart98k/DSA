@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/hart98k/DSA/tree/master/0078-subsets) |
 | [0560-subarray-sum-equals-k](https://github.com/hart98k/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0930-binary-subarrays-with-sum](https://github.com/hart98k/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0992-subarrays-with-k-different-integers](https://github.com/hart98k/DSA/tree/master/0992-subarrays-with-k-different-integers) |
@@ -69,4 +70,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/hart98k/DSA/tree/master/0344-reverse-string) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hart98k/DSA/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/hart98k/DSA/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
